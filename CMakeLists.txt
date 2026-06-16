@@ -3,7 +3,8 @@ cmake_minimum_required(VERSION 3.16)
 project(FractalMPI)
  
 find_package(fmt CONFIG REQUIRED)
-find_package(SFML COMPONENTS System Graphics Window CONFIG REQUIRED)
+find_package(SFML COMPONENTS Network Graphics Window Audio System CONFIG REQUIRED)
+find_package(Freetype REQUIRED)
 
 # config MPI
 set(MPI_ROOT "c:/oneAPI/mpi/latest")
@@ -18,12 +19,12 @@ add_executable(fractal-mpi
 main.cpp
 fractal_mpi.cpp
 palette.cpp
+draw_text.cpp
 )
  
-target_link_libraries(fractal-mpi PRIVATE 
-fmt::fmt
-SFML::System 
-SFML::Graphics 
-SFML::Window
-${MPI_LIB}/impi.lib
+target_link_libraries(fractal-mpi PRIVATE
+    fmt::fmt
+    SFML::Network SFML::Graphics SFML::Window SFML::Audio SFML::System
+    Freetype::Freetype
+    ${MPI_LIB}/impi.lib
 )

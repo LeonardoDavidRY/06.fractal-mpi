@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "fractal-mpi::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-fractal-mpi-Debug-8c4a0711413815e7507b.json",
+					"jsonFile" : "target-fractal-mpi-Debug-71128d540857b6c56608.json",
 					"name" : "fractal-mpi",
 					"projectIndex" : 0
 				}
@@ -83,7 +83,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "fractal-mpi::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-fractal-mpi-Release-330df983ecd9584cf612.json",
+					"jsonFile" : "target-fractal-mpi-Release-041fa7ad666ef587be06.json",
 					"name" : "fractal-mpi",
 					"projectIndex" : 0
 				}
@@ -127,7 +127,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "fractal-mpi::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-fractal-mpi-RelWithDebInfo-d0637b6334fad4a3edbe.json",
+					"jsonFile" : "target-fractal-mpi-RelWithDebInfo-74a6e1d7deb47873b2a1.json",
 					"name" : "fractal-mpi",
 					"projectIndex" : 0
 				}
@@ -137,8 +137,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/tools/Paralela/06.fractal-mpi/build",
-		"source" : "C:/tools/Paralela/06.fractal-mpi"
+		"build" : "C:/tools/P.Paralela/06.fractal-mpi/build",
+		"source" : "C:/tools/P.Paralela/06.fractal-mpi"
 	},
 	"version" : 
 	{
