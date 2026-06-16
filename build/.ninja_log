@@ -1,10 +1,11 @@
 # ninja log v7
-23	192	8033202877379838	CMakeFiles/fractal-mpi.dir/Debug/palette.cpp.obj	853010d21dbdd767
-21	411	8033202877358240	CMakeFiles/fractal-mpi.dir/Debug/fractal_mpi.cpp.obj	cbc204c95d789acd
-29	1481	8033162942347593	CMakeFiles/fractal-mpi.dir/Debug/main.cpp.obj	c1da731ba464d6f6
-1481	5281	8033162956864143	Debug/fractal-mpi.exe	e0851d2a5a28ef6f
-26	344	8033202877399723	CMakeFiles/fractal-mpi.dir/Debug/draw_text.cpp.obj	f98bd9a56ec3a02a
 29	200	8033203441389539	CMakeFiles/fractal-mpi.dir/Debug/palette.cpp.obj	853010d21dbdd767
-31	355	8033203441409537	CMakeFiles/fractal-mpi.dir/Debug/draw_text.cpp.obj	f98bd9a56ec3a02a
 26	389	8033203441369496	CMakeFiles/fractal-mpi.dir/Debug/fractal_mpi.cpp.obj	cbc204c95d789acd
 23	1745	8033203441338771	CMakeFiles/fractal-mpi.dir/Debug/main.cpp.obj	c1da731ba464d6f6
+1481	5281	8033162956864143	Debug/fractal-mpi.exe	e0851d2a5a28ef6f
+31	355	8033203441409537	CMakeFiles/fractal-mpi.dir/Debug/draw_text.cpp.obj	f98bd9a56ec3a02a
+321	1572	8033529920108316	CMakeFiles/fractal-mpi.dir/Debug/palette.cpp.obj	9fe832ade0f856bf
+336	2143	8033529920258078	CMakeFiles/fractal-mpi.dir/Debug/draw_text.cpp.obj	8c85dc7399de7d3f
+313	2514	8033529920023576	CMakeFiles/fractal-mpi.dir/Debug/fractal_mpi.cpp.obj	efbf987a24afb31a
+298	7881	8033529919874116	CMakeFiles/fractal-mpi.dir/Debug/main.cpp.obj	aa66e8fd29f8dfa
+7882	23171	8033529995718201	Debug/fractal-mpi.exe	ce712f2f67337749

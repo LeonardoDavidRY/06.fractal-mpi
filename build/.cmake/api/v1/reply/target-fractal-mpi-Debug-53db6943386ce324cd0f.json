@@ -44,7 +44,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 612,
+				"line" : 608,
 				"parent" : 1
 			},
 			{
@@ -62,7 +62,7 @@
 			{
 				"command" : 4,
 				"file" : 0,
-				"line" : 862,
+				"line" : 858,
 				"parent" : 4
 			},
 			{
@@ -148,10 +148,6 @@
 		[
 			{
 				"fragment" : "-g",
-				"role" : "flags"
-			},
-			{
-				"fragment" : "",
 				"role" : "flags"
 			},
 			{

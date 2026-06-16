@@ -5,7 +5,10 @@
 #include <ft2build.h>
 #include FT_FREETYPE_H
 
-#include "arial_ttf.h"
+namespace arial_ttf {
+    extern size_t data_len;
+    extern unsigned char data[];
+}
 
 class _free_type_initializer {
 public:
